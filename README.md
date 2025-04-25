@@ -47,7 +47,3 @@ streamlit run src/main.py
 
 - Sidebar to select detection model
 - Real-time display of prediction with simulated stream
-
----
-
-🔍 Built with Scikit-learn, Streamlit, and Python.
